@@ -1,4 +1,5 @@
-# Something is missing here
+# Something is missing heregt
+require_relative './plant'
 
 class Garden
   attr_accessor :name
